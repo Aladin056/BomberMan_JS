@@ -9,4 +9,3 @@ The map was created with the Tiled software then recovered in Json.
 
 ![Capture d’écran du 2022-05-29 15-55-21](https://user-images.githubusercontent.com/5393369/170873474-753fafd0-2656-41d0-9ca0-19c2831fe06d.png)
 
-#When compiling the game zoom out the browser according to the pc screen
