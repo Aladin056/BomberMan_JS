@@ -3,7 +3,6 @@
 Bomberman games but in my way whoever destroys the most blocks wins the game.
 This bomberman was made in Javascript, HTML and CSS.
 The map was created with the Tiled software then recovered in Json.
-# https://aladin056.github.io/BomberMan_JS/
 # When compiling the game zoom out the browser according to the pc screen
 
 
